@@ -1,2 +1,2 @@
-# Issa-Deas-Website
+# Issa-Deas
  Website stylings and scripts
